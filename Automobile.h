@@ -1,7 +1,3 @@
-// Automobile.h - Header file for the Automobile class
-//
-// 12-Mar-19  M. Watler         Created.
-//
 #include <iostream>
 
 using namespace std;

@@ -1,7 +1,3 @@
-// Automobile.cpp - Implementation of the Automobile class
-//
-// 12-Mar-19  M. Watler         Created.
-//
 #include "Automobile.h"
 #include "Logger.h"
 
