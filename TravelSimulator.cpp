@@ -1,9 +1,3 @@
-//TravelSimulator.cpp - A travel simulator
-//                      Several cars are tested for their fuel consumption
-//
-// 12-Mar-19  M. Watler         Created.
-//
-
 #include <signal.h>
 #include <unistd.h>
 #include "Automobile.h"
